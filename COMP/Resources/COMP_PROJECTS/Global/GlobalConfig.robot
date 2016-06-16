@@ -10,5 +10,7 @@ ${cfg_global_login_username_default}    ca
 ${cfg_global_login_password_default}    popeye123
 ${cfg_global_home_pagesync}    ${EMPTY}
 ${cfg_global_resource_webdrivers}    ${EXECDIR}\\Resources\\WebDrivers\\
-${cfg_sauceLabs_remoteUrl}    ${EMPTY}
-${cfg_sauceLabs_desiredCapabilities}    ${EMPTY}
+${cfg_sauceLabs_remoteUrl}    http://gfung:3e42e523-3f0e-4d5b-b68a-6a474253aacb@ondemand.saucelabs.com:80/wd/hub
+${cfg_sauceLabs_desiredCapabilities}    chrome
+${cfg_sauceLabs_desiredCapabilities2}    OS X 10.10
+${cfg_sauceLabs_desiredCapabilities3}    50.0

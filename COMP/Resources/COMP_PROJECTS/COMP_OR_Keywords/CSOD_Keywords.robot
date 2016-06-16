@@ -271,3 +271,6 @@ Download_Excel_And_Compare
     Archive_Files    /Users/Admin/Automation/COMP/Compensation*    /Users/Admin/Automation/COMP/Resources/Uploads/Comp_Excel_Archived_Files/
     Archive_Files    /Users/Admin/Automation/COMP/Runtime_Comp_Adj.xls    /Users/Admin/Automation/COMP/Resources/Uploads/Comp_Excel_Archived_Files/
     Killall_Browser_Process
+
+SauceLabs_Login
+    Open Browser    ${cfg_sauceLabs_remoteUrl}
